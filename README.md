@@ -69,6 +69,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Shi et al. **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges.** ACM COMPUT SURV, 2014.
 
+* Gunes et al. **Shilling attacks against recommender systems: a comprehensive survey.** Artificial Intelligence Review, 2014.
+
 * Chen et al. **Recommender systems based on user reviews: the state of the art.** USER MODEL USER-ADAP, 2015.
 
 * Xu et al. **Social networking meets recommender systems: survey.** Int.J.Social Network Mining, 2015.
@@ -116,6 +118,10 @@ the user with the recommendations, but also make the user aware why such items a
 * Wu et al. **Graph  Neural  Networks  in  Recommender  Systems: A  Survey.** arXiv, 2020.
 
 * Chen et al. **Bias  and  Debias  in  Recommender  System: A  Survey  and  Future  Directions.** arXiv, 2020.
+
+* Zhu et al. **Cross-Domain Recommendation-Challenges, Progress, and Prospects.** arxiv, 2021.
+
+* Wu et al. **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation.** TKDE, 2021.
 
 
 ## General Recommender System
@@ -655,6 +661,8 @@ the user with the recommendations, but also make the user aware why such items a
 
 * Xiang et al. **Reinforced Negative Sampling over Knowledge Graph for Recommendation.** WWW, 2020.
 
+* Wang et al. **CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems.** SIGIR, 2020.
+
 
 ## Review based RS
 
@@ -944,6 +952,8 @@ the user with the recommendations, but also make the user aware why such items a
 * Udi et al. **BlurMe: inferring and obfuscating user gender based on ratings.** RecSys, 2012.
 
 * Hua et al. **Differentially Private Matrix Factorization.** IJCAI, 2015.
+
+* Li et al. **Data poisoning attacks on factorization-based collaborative filtering.** NIPS, 2016.
 
 * Erez et al. **Secure Multi-Party Protocols for Item-Based Collaborative Filtering.** Recsys, 2017.
 
